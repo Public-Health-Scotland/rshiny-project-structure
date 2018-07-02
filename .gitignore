@@ -9,6 +9,12 @@ packrat/lib*/
 # 'data' folder #
 data/
 
+# images folder #
+www/
+
+# folder created when deploying an app #
+rsconnect/
+
 # Common text files that may contain data #
 *.[cC][sS][vV]
 *.[tT][xX][tT]
