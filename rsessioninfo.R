@@ -1,4 +1,6 @@
-#Rsession information
+# R session information 
+# Obtain it using sessionInfo()
+# Below is just an example 
 
 # R version 3.3.2 (2016-10-31)
 # Platform: i386-w64-mingw32/i386 (32-bit)
